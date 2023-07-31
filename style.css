@@ -1,0 +1,79 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-pantalla-galaxy-iphone-fondo-movil-lindo-vector-espacial_53876-136883.jpg?w=360);
+}
+
+
+/* En las IMAGENES puede ser en picceles PX o el % DE LA PANTALLA para ajustar el tamaño*/
+.img{
+    width: 500%;
+    height: 100%;
+    border-radius: 900px;
+}
+/*En HTML debi de poner la etiqueta de CLASS="" (en la parte de donde estan mis imagenes)y nombrar a mi imagen para que en el estilo la especifique y ponga ese ismo nombre para modificar esa unica imagen*/
+.jose{
+    width: 300px;
+    
+}
+
+.p-origen {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title-web{
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.title-astrobiologia{
+    font-size: 40px;
+    text-align: center;
+}
+
+.parrafo1{
+    font-size: 16px;
+
+}
+
+    
+
+.title-universo {
+    font-size: 40px;
+    text-align: center;
+}
+
+.title-estrellas{
+    font-size: 40px;
+    text-align: center;
+}
+
+.title-preguntas{
+    font-size: 50px;
+}
+
+.sub{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration-color: black;
+
+}
+
+.vid{
+    font-size: 40px;
+
+}
+
+.videos{
+    font-size: 20px;
+    text-align: left;
+        list-style: none;
+    }
+
+
+/*
+selector{
+    propiedades : valor :
+}
+*/
